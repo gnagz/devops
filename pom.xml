@@ -4,7 +4,7 @@
 
 	<groupId>com.udemy</groupId>
 	<artifactId>devops</artifactId>
-	<version>1.0.2-SNAPSHOT</version>
+	<version>1.0.2</version>
 	<packaging>war</packaging>
 
 	<name>devops</name>
@@ -87,7 +87,7 @@
 	  <connection>scm:git:git@github.com:gnagz/devops.git</connection>
 	  <developerConnection>scm:git:git@github.com:gnagz/devops.git</developerConnection>
 	  <url>git@github.com:gnagz/devops.git</url>
-	  <tag>HEAD</tag>
+	  <tag>v1.0.2</tag>
 	</scm>
 
 </project>
